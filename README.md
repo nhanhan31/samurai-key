@@ -56,7 +56,6 @@ To clone and run this application, you'll need Java Developing IDE (NetBeans, Ec
 
 This application uses the following open source packages:
 
-- [Ogani Template](https://colorlib.com/wp/template/ogani/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/)
 
