@@ -44,7 +44,7 @@ To clone and run this application, you'll need Java Developing IDE (NetBeans, Ec
 ### 1. After cloned, run PRJShop.sql by using SQL Server and excute it to create Database
 ### 2. Go to package Context -> DBUtil.java -> Change user and password (match with your SQL Server)
 
-<img src="https://github.com/blvm159263/samurai_key/blob/main/screen/setup.png" alt="setup"/>
+<img src="https://github.com/nhanhan31/samurai-key-main/blob/main/screen/setup.png" alt="setup"/>
 
 ### 3. Make sure you have Apache Tomcat! Then run application as localhost and enjoy!
 
@@ -65,5 +65,5 @@ This application uses the following open source packages:
 <a href="https://github.com/blvm159263" > &emsp;:desktop_computer: Bui Le Van Minh <a/> <br/>
 <a href="https://github.com/blvm159263](https://github.com/n-d-h" > &emsp;:desktop_computer: Nguyen Duc Hoang <a/><br/>
 <a href="https://github.com/blvm159263](https://github.com/Le-Nguyen-Nhat-Minh" > &emsp;:desktop_computer: Le Nguyen Nhat Minh <a/><br/>
-<a href="https://github.com/blvm159263](https://github.com/nhanhan31" > &emsp;:desktop_computer: Nhan <a/><br/>
+<a href="https://github.com/nhanhan31" > &emsp;:desktop_computer: Nhan <a/><br/>
 
