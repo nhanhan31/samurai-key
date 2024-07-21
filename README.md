@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/blvm159263/samurai_key/blob/main/web/img/logoweb.png" alt="Markdownify" width="400">
+  <img src="https://github.com/nhanhan31/samurai-key-main/blob/main/web/img/logoweb.png" alt="Markdownify" width="400">
   <br>
   Samurai Key
   <br>
@@ -17,7 +17,7 @@
   <a href="#contributers">Contributers</a>
 </p>
 
-![screenshot](https://github.com/blvm159263/samurai_key/blob/main/web/img/homescreen.png)
+![screenshot](https://github.com/nhanhan31/samurai-key-main/blob/main/web/img/homescreen.png)
 
 ## Key Features
 
